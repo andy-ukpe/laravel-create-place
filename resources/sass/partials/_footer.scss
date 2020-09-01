@@ -1,0 +1,25 @@
+footer{
+  background-color: #1b3c59;
+  color: $tp_white;
+  padding: 80px;
+  img{
+    width: 200px;
+  }
+  hr{
+    background-color: white;
+  }
+  .via{
+    text-align: center;
+  }
+  .list{
+    font-size: 20px;
+    list-style-type: none;
+    text-align: right;
+  }
+  .icon{
+    list-style-type: none;
+  }
+  .icon:hover{
+    color: #61ce4e;
+  }
+}
